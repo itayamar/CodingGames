@@ -44,6 +44,7 @@ var reTrans;
 })();
 
 
+// Change the Lang
 function changeLang(lang) {
     reTrans(lang);
 }
